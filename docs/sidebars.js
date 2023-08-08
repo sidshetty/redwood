@@ -137,6 +137,7 @@ module.exports = {
           ],
         },
         'directives',
+        'docker',
         'environment-variables',
         'forms',
         'graphql',
