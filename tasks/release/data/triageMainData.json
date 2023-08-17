@@ -1,0 +1,14 @@
+{
+  "c89e1364c7e9af541438f3274ddf1f92401dc2c8": {
+    "message": "exp(streaming): Allow SSR with experimental apollo client (#9038)",
+    "needsCherryPick": false
+  },
+  "865c9085bf1519c6b2f153b7497ef005d42f3bad": {
+    "message": "manually bump web-server package version",
+    "needsCherryPick": false
+  },
+  "bb3ef0bd6034dfa7c6a38efcdabb444eea9665c7": {
+    "message": "Create releaseCommits.json",
+    "needsCherryPick": false
+  }
+}
